@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/novel-collection/"}
 ---
 
-HI
+**Back To Homepage**
+[[My Garden\|Home]]
