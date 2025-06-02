@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/my-garden/","tags":["gardenEntry"]}
 ---
 
-The Yonkadingo Digital Garden
 
 **What Is This?**
 	This is a collection of ideas, feelings, and thoughts. I find it similar to a closet, moving articles of clothing in and out for the purpose of finding and maintaining a cohesive and personal identity.
