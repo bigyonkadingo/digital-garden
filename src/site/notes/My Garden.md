@@ -11,8 +11,8 @@ It is ever changing and evolving, something that I will care for throughout year
 Plans may change, but I do hope that this can stay as a reminder of the person I am.
 
 **Garden Directory**
-[[Novel Collection\|Novel Collection]]
-[[Gaming Collection\|Gaming Collection]]
-[[Non-Fiction Collection\|Non-Fiction Collection]]
-[[Music Collection\|Music Collection]]
-[[Basketball Collection\|Basketball Collection]]
+[[Novel Collection/Novel Collection Homepage\|Novel Collection Homepage]]
+[[Gaming Collection/Gaming Collection Homepage\|Gaming Collection Homepage]]
+[[Non-Fiction Collection/Non-Fiction Collection Homepage\|Non-Fiction Collection Homepage]]
+[[Music Collection/Music Collection Homepage\|Music Collection Homepage]]
+[[Basketball Collection/Basketball Collection Homepage\|Basketball Collection Homepage]]
