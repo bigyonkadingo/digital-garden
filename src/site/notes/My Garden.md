@@ -12,7 +12,7 @@
 
 **Garden Directory**
 [[Novel Collection/Novel Collection Homepage\|Novel Collection Homepage]]
-[[Gaming Collection/Gaming Collection Homepage\|Gaming Collection Homepage]]
+[[Gaming Collection/Game Dev Collection Homepage\|Game Dev Collection Homepage]]
 [[Non-Fiction Collection/Non-Fiction Collection Homepage\|Non-Fiction Collection Homepage]]
 [[Music Collection/Music Collection Homepage\|Music Collection Homepage]]
 [[Basketball Collection/Basketball Collection Homepage\|Basketball Collection Homepage]]
